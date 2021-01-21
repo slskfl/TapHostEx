@@ -1,0 +1,4 @@
+include ':browser'
+include ':animaltab'
+include ':app'
+rootProject.name = "TapHostEx"
